@@ -1,0 +1,9 @@
+{
+  "name": "RestAPI",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "~3.4.4",
+    "mongoose": "~3.8.1"
+  }
+}
